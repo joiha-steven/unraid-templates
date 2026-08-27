@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/joiha-steven/quireink/main/src/assets/static/app-icon.png</Icon>
+  <Profile>
+    Developer of Quire Ink, a self-hosted blog platform in one container: a real editor over Markdown, newsletters over your own SMTP, comments, cookie-free analytics, importers for WordPress/Ghost/Substack/Medium, eleven interface languages, and no third-party requests anywhere. This repository holds the official Unraid templates. The templates are MIT; the application itself is source-available (PolyForm Noncommercial, with unmodified releases free to run commercially).
+  </Profile>
+  <WebPage>https://quireink.com</WebPage>
+  <Forum>https://github.com/joiha-steven/quireink/issues</Forum>
+</Maintainer>
